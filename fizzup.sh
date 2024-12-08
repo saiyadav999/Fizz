@@ -10,7 +10,7 @@ GATEWAY_ADDRESS="provider.testnetasphn.xyz" # Provider domain: example = provide
 GATEWAY_PROXY_PORT="8553" # Proxyport = 8553
 GATEWAY_WEBSOCKET_PORT="8544" # ws url of the gateway example= ws://provider.devnetcsphn.com:8544
 CPU_PRICE="3.75"
-CPU_UNITS="5.1"
+CPU_UNITS="5"
 MEMORY_PRICE="1.5"
 MEMORY_UNITS="15"
 STORAGE_PRICE="4"
